@@ -6,7 +6,7 @@ An interactive healthcare analytics dashboard built in **Microsoft Power BI** to
 
 ## 📌 Dashboard Overview
 
-![Hospital Patient Care Dashboard](HOSPITAL%20PATIENT%20CARE%20&%20ANALYTICS.png)
+![Hospital Patient Care Dashboard](HOSPITAL%20PATIENT%20CARE%20&%20ANANLYTICS.jpeg)
 
 ---
 
